@@ -1,10 +1,15 @@
 # HW_07_29
-* This project has been the most challenging one so far. I look forward to updating this through this course.
-* I started with the index and struggled mostly on that one. The contact and portfolio files, I didn't spend too much time on it.
-* I enjoyed making this, it really felt like I was a web developer.
+* This is my portfolio and about me web page that I will be updating through out the course.
+* On my web page you can read about me, check out my portfolio, read my resume, link to my github and linkedin
 * Here are the contents
     * contact.html
     * index.html
     * portfolio.html
     * style.css
+    * images
+    * Resume.pdf
 * https://scottbuonya.github.io/Portfolio/
+
+<img src="aboutme.png" alt="about me homepage">
+
+<img src="portfolio.png" alt="portfolio page">

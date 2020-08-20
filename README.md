@@ -10,6 +10,6 @@
     * Resume.pdf
 * https://scottbuonya.github.io/Portfolio/
 
-<img src="aboutme.png" alt="about me homepage">
+<img src="Assets/images/aboutme.png" alt="about me homepage">
 
-<img src="portfolio.png" alt="portfolio page">
+<img src="Assets/images/portfolio.png" alt="portfolio page">

@@ -12,4 +12,6 @@
 
 <img src="Assets/images/aboutme.png" alt="about me homepage">
 
-<img src="Assets/images/portfolio.png" alt="portfolio page">
+<img src="Assets/images/updatedPortfolio2.png" alt="portfolio page">
+
+<img src="Assets/images/contactPortfolio.png" alt="contact page">
